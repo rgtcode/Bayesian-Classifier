@@ -1,4 +1,4 @@
-# Bayesian Classiﬁer
+## Bayesian Classiﬁer
 We are building  Bayesian classifiers for the datasets the given dataset. .
 
 Bayesian Classifiers: Builds Bayesian models using the given dataset for the given case numbers.
@@ -18,3 +18,7 @@ case number:
 # Datsets used
 1. Linearly separable Dataset
 2. Non-Linearly separable Dataset
+
+# How to use
+
+Using **mean.m** we can find the empirical mean of the 
