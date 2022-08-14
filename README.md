@@ -1,5 +1,5 @@
-## Bayesian Classiﬁer
-We are building  Bayesian classifiers for the datasets the given dataset. .
+# Bayesian Classiﬁer
+We are building  Bayesian classifiers for the datasets the given dataset in matlab. .
 
 Bayesian Classifiers: Builds Bayesian models using the given dataset for the given case numbers.
 
@@ -15,10 +15,10 @@ case number:
 
                        5 -- Naive Bayes with C different for all classes.
 
-# Datsets used
+## Dataset Used
 1. Linearly separable Dataset
 2. Non-Linearly separable Dataset
 
-# How to use
 
-Using **mean.m** we can find the empirical mean of the 
+
+
