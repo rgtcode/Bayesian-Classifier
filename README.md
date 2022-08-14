@@ -3,7 +3,8 @@ We are building  Bayesian classifiers for the datasets the given dataset. .
 
 Bayesian Classifiers: Builds Bayesian models using the given dataset for the given case numbers.
 
-case number: 1 -- Bayes with Covariance same for all classes
+case number:          
+                       1 -- Bayes with Covariance same for all classes
 
                        2 -- Bayes with Covariance different for all classes
 
